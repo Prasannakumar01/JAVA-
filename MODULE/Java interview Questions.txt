@@ -1,0 +1,81 @@
+Module-1
+
+
+Prime number 
+Fibnocci series 
+Armstrong 
+Reverse 
+Palindrome 
+Sum of even digits 
+Factorial 
+Swapping 
+Multiply table
+Leap year 
+Programs on operators 
+
+
+Theory
+
+C vs java 
+Features of java 
+Principle of java 
+Uses of java 
+Does java an platform independent justify 
+Does justplatform form dependent’s 
+
+
+
+Syntax 
+
+For
+While 
+Dowhile 
+If else 
+Switch 
+Operators
+
+
+
+
+
+Module-2
+
+Define following 
+Local var 
+Static var 
+Non static var 
+Method overloading 
+Constructor 
+Constructor overloads
+Constructor changing 
+This 
+This()
+
+
+Syntax
+Methods with args, without args,with return type 
+Object 
+Constructor 
+Static var 
+Non static var 
+
+
+Diff between
+This and this ()
+Local vs global
+Static vs non static
+
+
+Programs 
+Methods 
+Method overloading 
+Local
+Static 
+Non static 
+Constructor 
+
+
+Theory 
+How to access static member of one class in another class 
+How to access non static of one class in another 
+Execution process

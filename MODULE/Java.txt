@@ -1,0 +1,45 @@
+Java
+----------
+
+Java is simple,portable,robot,operates in other platforms,multithreading and opps are the features that are 
+in java 
+
+simple:- It is easy to understand 
+portable:- we can use other languages as support
+robot:-performs some automation process
+otherplatforms:- compiled file can be run in other platforms other than what we are using now.
+multithreading:-code can be executed in parallel.
+oops:- with the help of object creation we can make use of them any where in the program.
+
+
+It was  introduced  by james goswlin in the year 1995 ,It was created during the project and the name for 
+project is Green project and the team name is Greenteam.
+
+He works in the sunmicrosystem
+
+
+Java is the popular language in the current IT sector and it was widely used in the community where we can get
+help from others .
+
+Java can be edited in the notepad and notepad++ for the starters. Reason for the notepad is we can know the 
+mistakes where we are commiting and learn from the mistakes that are done. 
+ 
+If we use the editor like IDE we dont know where we are commiting the mistake with the advanced versions we are
+able to get rectified by the predefined methods availble on the IDE.
+
+
+With the instalation of jdk we can get the jre . It is a combo offer while we download it .
+
+
+JRE is responsible to compile the program and it will help us to know the errors with the puntuations ,if there 
+are any errors that we commit while coding they will be shown during the compilation 
+
+jre is responsible to convert the human understandable language to system understandable language.
+
+after compilation we can get the class file for the java file . with the help of that class file we can execute in 
+any platform.
+
+
+Jit is responsible to execute the code line by line.JIT-just in time.
+
+  

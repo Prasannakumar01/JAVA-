@@ -1,0 +1,12 @@
+public class Prasanna{
+public static void main(String args[]){
+for(int i=0;i<args.length;i++){
+int  intvalues =Integer.parseInt(args[i]);
+double doublevalues=double.parsedouble(args[i]);
+float floatvalues=float.parsefloat(args[i]);
+System.out.println(intvalues);
+System.out.println(doublevalues);
+System.out.println(floatvalues);
+}
+}
+}
